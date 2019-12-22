@@ -1,0 +1,1 @@
+fop -v -c fop.xconf -xml book.xml -xsl custom-docbook.xsl -pdf book.pdf
