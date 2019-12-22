@@ -90,5 +90,12 @@
     </callout>
   </calloutlist>
   <para>Данный подход требует поддерживать список параметров операции в CTE <varname>oper_data</varname>. При этом необходимость в тригерах и процедурах полностью отпадает. Для ускорения работы представления его можно сделать индексированным.</para>
-  <graphic fileref="database.svg" scale="1000"></graphic>
+  <figure><title>Символ базы данных.</title><graphic fileref="database.svg" scale="1000" align="center"></graphic></figure>
+  <equation><title>Fermat's Last Theorem</title>
+  <alt>x^n + y^n &ne; z^n &forall; n &gt; 2</alt>
+  <mathphrase>x<superscript>n</superscript>
++ y<superscript>n</superscript>
+≠ z<superscript>n</superscript>
+∀ n ≠ 2</mathphrase>
+</equation>
 </article>
