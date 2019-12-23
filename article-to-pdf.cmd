@@ -1,1 +1,1 @@
-fop -v -l en -c fop.xconf -xml article.xml -xsl custom-docbook.xsl -pdf article.pdf
+fop -l en -c fop.xconf -xml article.xml -xsl custom-docbook.xsl -pdf article.pdf

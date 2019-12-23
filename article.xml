@@ -1,7 +1,9 @@
 ﻿<article xml:id="masterdataview" xml:lang="ru" xml:base=".">
-  <info>
+  <articleinfo>
     <title>Представление для просмотрa данных операции</title>
-  </info>
+    <subtitle>(пример работы с DocBook)</subtitle>
+    <author>Федорченко М.И.</author>
+  </articleinfo>
   <para>Основным методом хранения значений параметров операций является хранение пар <emphasis>Имя=Значение</emphasis> в таблице <database>dbo.top_ParamValues</database>. Но сейчас для упрощения обработки данных используются обычные таблицы с колонками соответсвующими параметрам операции. Синхронизацию данных между таблицами обеспечивают тригеры на <database>dbo.top_ParamValues</database>, на таблице операции, на таблице <database>dbo.top_Chains</database> где хранятся общие свойства всех операций ОДБ и генерируемая из Конструктора операций процедура с именем <emphasis>p + &lt;имя таблицы&gt;</emphasis>. Т.о. каждое изменение данных совпровождается выполнением, как минимум, 2-х не мальнеких процедур на T-SQL.</para>
   
   <para>Этот подход требует дополнительных усилий от разработчика:</para>
@@ -90,12 +92,4 @@
     </callout>
   </calloutlist>
   <para>Данный подход требует поддерживать список параметров операции в CTE <varname>oper_data</varname>. При этом необходимость в тригерах и процедурах полностью отпадает. Для ускорения работы представления его можно сделать индексированным.</para>
-  <figure><title>Символ базы данных.</title><graphic fileref="database.svg" scale="1000" align="center"></graphic></figure>
-  <equation><title>Fermat's Last Theorem</title>
-  <alt>x^n + y^n &ne; z^n &forall; n &gt; 2</alt>
-  <mathphrase>x<superscript>n</superscript>
-+ y<superscript>n</superscript>
-≠ z<superscript>n</superscript>
-∀ n ≠ 2</mathphrase>
-</equation>
 </article>
