@@ -1,5 +1,5 @@
 # SQL Server Management Studio Files
 .output
-.fo
-.pdf
+*.fo
+*.pdf
 
