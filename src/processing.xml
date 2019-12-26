@@ -1,0 +1,12 @@
+﻿<article xml:id="masterdataview" xml:lang="ru">
+  <articleinfo>
+    <title>Принцип обработки процессов</title>
+    <!--author>Федорченко М.И.dff</author-->
+  </articleinfo>
+	<figure id="svg1">
+		<title>Принцип обработки процессов</title>
+	  <graphic fileref="../images/abs_processing.svg" scalefit="1" width="160mm" align="center"/>
+	</figure>
+	<para>На рисунке <xref linkend="svg1" endterm="label"/> показаны базовые принципы работы АБС.</para>
+</article>
+

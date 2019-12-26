@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="28cm" height="14cm" viewBox="564 2 548 278" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="795.451,124.461 828.284,124.461 828.284,40.7922 886.241,40.7922 "/>
+    <polygon style="fill: #000000" points="890.741,40.7922 884.741,43.7922 886.241,40.7922 884.741,37.7922 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="890.741,40.7922 884.741,43.7922 886.241,40.7922 884.741,37.7922 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="795.451,151.127 829.826,151.127 829.826,236.653 886.626,236.653 "/>
+    <polygon style="fill: #000000" points="891.126,236.653 885.126,239.653 886.626,236.653 885.126,233.653 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="891.126,236.653 885.126,239.653 886.626,236.653 885.126,233.653 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="795.451" y1="137.794" x2="886.434" y2="138.658"/>
+    <polygon style="fill: #000000" points="890.933,138.701 884.905,141.644 886.434,138.658 884.962,135.644 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="890.933,138.701 884.905,141.644 886.434,138.658 884.962,135.644 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="626.451,138.22 669.18,138.22 669.18,137.794 705.173,137.794 "/>
+    <polygon style="fill: #000000" points="709.673,137.794 703.673,140.794 705.173,137.794 703.673,134.794 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="709.673,137.794 703.673,140.794 705.173,137.794 703.673,134.794 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="923.169,138.722 967.23,138.722 967.23,101.552 1004.55,101.552 "/>
+    <polygon style="fill: #000000" points="1009.05,101.552 1003.05,104.552 1004.55,101.552 1003.05,98.552 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1009.05,101.552 1003.05,104.552 1004.55,101.552 1003.05,98.552 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="923.169,148.722 968.483,148.722 968.483,180.758 1007.06,180.758 "/>
+    <polygon style="fill: #000000" points="1011.56,180.758 1005.56,183.758 1007.06,180.758 1005.56,177.758 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1011.56,180.758 1005.56,183.758 1007.06,180.758 1005.56,177.758 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="923.362,236.653 969.129,236.653 969.129,207.425 1007.06,207.425 "/>
+    <polygon style="fill: #000000" points="1011.56,207.425 1005.56,210.425 1007.06,207.425 1005.56,204.425 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1011.56,207.425 1005.56,210.425 1007.06,207.425 1005.56,204.425 "/>
+  </g>
+  <g>
+    <g>
+      <polygon style="fill: #ffffff" points="596.451,118.22 616.451,118.22 616.451,128.22 626.451,128.22 626.451,158.22 596.451,158.22 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="596.451,118.22 616.451,118.22 616.451,128.22 626.451,128.22 626.451,158.22 596.451,158.22 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="596.451,118.22 616.451,118.22 616.451,128.22 626.451,128.22 626.451,158.22 596.451,158.22 "/>
+      <polygon style="fill: #ffffff" points="616.451,118.22 626.451,128.22 616.451,128.22 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="616.451,118.22 626.451,128.22 616.451,128.22 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="616.451,118.22 626.451,128.22 616.451,128.22 "/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="611.451" y="175.22">
+        <tspan x="611.451" y="175.22">Документ</tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="593.639" y="109.908">
+      <tspan x="593.639" y="109.908">Web API</tspan>
+    </text>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="565.879" y="100.908" width="85.5925" height="79.9415"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="608.676" y="144.778">
+        <tspan x="608.676" y="144.778"></tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path style="fill: #ffffff" d="M 721.192 117.794 C 730.474,117.794 776.886,117.794 786.168,117.794 C 795.451,117.794 795.451,117.794 795.451,124.461 C 795.451,131.127 795.451,144.461 795.451,151.127 C 795.451,157.794 795.451,157.794 786.168,157.794 C 776.886,157.794 730.474,157.794 721.192,157.794 C 711.91,157.794 711.91,157.794 711.91,151.127 C 711.91,144.461 711.91,131.127 711.91,124.461 C 711.91,117.794 711.91,117.794 721.192,117.794z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 721.192 117.794 C 730.474,117.794 776.886,117.794 786.168,117.794 C 795.451,117.794 795.451,117.794 795.451,124.461 C 795.451,131.127 795.451,144.461 795.451,151.127 C 795.451,157.794 795.451,157.794 786.168,157.794 C 776.886,157.794 730.474,157.794 721.192,157.794 C 711.91,157.794 711.91,157.794 711.91,151.127 C 711.91,144.461 711.91,131.127 711.91,124.461 C 711.91,117.794 711.91,117.794 721.192,117.794"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" d="M 721.192 117.794 C 730.474,117.794 776.886,117.794 786.168,117.794 C 795.451,117.794 795.451,117.794 795.451,124.461 C 795.451,131.127 795.451,144.461 795.451,151.127 C 795.451,157.794 795.451,157.794 786.168,157.794 C 776.886,157.794 730.474,157.794 721.192,157.794 C 711.91,157.794 711.91,157.794 711.91,151.127 C 711.91,144.461 711.91,131.127 711.91,124.461 C 711.91,117.794 711.91,117.794 721.192,117.794"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="721.192" y1="157.794" x2="786.168" y2="157.794"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="795.451" y1="124.461" x2="795.451" y2="151.127"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="711.91" y1="124.461" x2="711.91" y2="151.127"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="721.192" y1="117.794" x2="786.168" y2="117.794"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="753.68" y="141.794">
+        <tspan x="753.68" y="141.794">Операция</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="696.618" y="100.639" width="113.159" height="64.5195"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="753.197" y="136.799">
+        <tspan x="753.197" y="136.799"></tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="737.486" y="111.952">
+      <tspan x="737.486" y="111.952">Web API</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <path style="fill: #ffffff" d="M 1020.57 81.552 C 1029.86,81.552 1076.27,81.552 1085.55,81.552 C 1094.83,81.552 1094.83,81.552 1094.83,88.2186 C 1094.83,94.8853 1094.83,108.219 1094.83,114.885 C 1094.83,121.552 1094.83,121.552 1085.55,121.552 C 1076.27,121.552 1029.86,121.552 1020.57,121.552 C 1011.29,121.552 1011.29,121.552 1011.29,114.885 C 1011.29,108.219 1011.29,94.8853 1011.29,88.2186 C 1011.29,81.552 1011.29,81.552 1020.57,81.552z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1020.57 81.552 C 1029.86,81.552 1076.27,81.552 1085.55,81.552 C 1094.83,81.552 1094.83,81.552 1094.83,88.2186 C 1094.83,94.8853 1094.83,108.219 1094.83,114.885 C 1094.83,121.552 1094.83,121.552 1085.55,121.552 C 1076.27,121.552 1029.86,121.552 1020.57,121.552 C 1011.29,121.552 1011.29,121.552 1011.29,114.885 C 1011.29,108.219 1011.29,94.8853 1011.29,88.2186 C 1011.29,81.552 1011.29,81.552 1020.57,81.552"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" d="M 1020.57 81.552 C 1029.86,81.552 1076.27,81.552 1085.55,81.552 C 1094.83,81.552 1094.83,81.552 1094.83,88.2186 C 1094.83,94.8853 1094.83,108.219 1094.83,114.885 C 1094.83,121.552 1094.83,121.552 1085.55,121.552 C 1076.27,121.552 1029.86,121.552 1020.57,121.552 C 1011.29,121.552 1011.29,121.552 1011.29,114.885 C 1011.29,108.219 1011.29,94.8853 1011.29,88.2186 C 1011.29,81.552 1011.29,81.552 1020.57,81.552"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1020.57" y1="121.552" x2="1085.55" y2="121.552"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1094.83" y1="88.2186" x2="1094.83" y2="114.885"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1011.29" y1="88.2186" x2="1011.29" y2="114.885"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1020.57" y1="81.552" x2="1085.55" y2="81.552"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1053.06" y="105.552">
+        <tspan x="1053.06" y="105.552">Операция</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="995.999" y="64.3971" width="113.159" height="64.5195"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1052.58" y="100.557">
+        <tspan x="1052.58" y="100.557"></tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1036.87" y="75.7104">
+      <tspan x="1036.87" y="75.7104">Web API</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <path style="fill: #ffffff" d="M 1023.08 174.091 C 1032.36,174.091 1078.77,174.091 1088.06,174.091 C 1097.34,174.091 1097.34,174.091 1097.34,180.758 C 1097.34,187.425 1097.34,200.758 1097.34,207.425 C 1097.34,214.091 1097.34,214.091 1088.06,214.091 C 1078.77,214.091 1032.36,214.091 1023.08,214.091 C 1013.8,214.091 1013.8,214.091 1013.8,207.425 C 1013.8,200.758 1013.8,187.425 1013.8,180.758 C 1013.8,174.091 1013.8,174.091 1023.08,174.091z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1023.08 174.091 C 1032.36,174.091 1078.77,174.091 1088.06,174.091 C 1097.34,174.091 1097.34,174.091 1097.34,180.758 C 1097.34,187.425 1097.34,200.758 1097.34,207.425 C 1097.34,214.091 1097.34,214.091 1088.06,214.091 C 1078.77,214.091 1032.36,214.091 1023.08,214.091 C 1013.8,214.091 1013.8,214.091 1013.8,207.425 C 1013.8,200.758 1013.8,187.425 1013.8,180.758 C 1013.8,174.091 1013.8,174.091 1023.08,174.091"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" d="M 1023.08 174.091 C 1032.36,174.091 1078.77,174.091 1088.06,174.091 C 1097.34,174.091 1097.34,174.091 1097.34,180.758 C 1097.34,187.425 1097.34,200.758 1097.34,207.425 C 1097.34,214.091 1097.34,214.091 1088.06,214.091 C 1078.77,214.091 1032.36,214.091 1023.08,214.091 C 1013.8,214.091 1013.8,214.091 1013.8,207.425 C 1013.8,200.758 1013.8,187.425 1013.8,180.758 C 1013.8,174.091 1013.8,174.091 1023.08,174.091"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1023.08" y1="214.091" x2="1088.06" y2="214.091"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1097.34" y1="180.758" x2="1097.34" y2="207.425"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1013.8" y1="180.758" x2="1013.8" y2="207.425"/>
+      <line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="1023.08" y1="174.091" x2="1088.06" y2="174.091"/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1055.57" y="198.091">
+        <tspan x="1055.57" y="198.091">Операция</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="998.505" y="156.936" width="113.159" height="64.5195"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1055.08" y="193.096">
+        <tspan x="1055.08" y="193.096"></tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1039.37" y="168.25">
+      <tspan x="1039.37" y="168.25">Web API</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <polygon style="fill: #ffffff" points="892.977,20.7922 912.977,20.7922 912.977,30.7922 922.977,30.7922 922.977,60.7922 892.977,60.7922 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="892.977,20.7922 912.977,20.7922 912.977,30.7922 922.977,30.7922 922.977,60.7922 892.977,60.7922 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="892.977,20.7922 912.977,20.7922 912.977,30.7922 922.977,30.7922 922.977,60.7922 892.977,60.7922 "/>
+      <polygon style="fill: #ffffff" points="912.977,20.7922 922.977,30.7922 912.977,30.7922 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="912.977,20.7922 922.977,30.7922 912.977,30.7922 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="912.977,20.7922 922.977,30.7922 912.977,30.7922 "/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="907.977" y="77.7922">
+        <tspan x="907.977" y="77.7922">Документ</tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="890.165" y="12.4799">
+      <tspan x="890.165" y="12.4799">Web API</tspan>
+    </text>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="862.405" y="3.47993" width="85.5925" height="79.9415"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="905.201" y="47.3507">
+        <tspan x="905.201" y="47.3507"></tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <polygon style="fill: #ffffff" points="893.169,118.722 913.169,118.722 913.169,128.722 923.169,128.722 923.169,158.722 893.169,158.722 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="893.169,118.722 913.169,118.722 913.169,128.722 923.169,128.722 923.169,158.722 893.169,158.722 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="893.169,118.722 913.169,118.722 913.169,128.722 923.169,128.722 923.169,158.722 893.169,158.722 "/>
+      <polygon style="fill: #ffffff" points="913.169,118.722 923.169,128.722 913.169,128.722 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="913.169,118.722 923.169,128.722 913.169,128.722 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="913.169,118.722 923.169,128.722 913.169,128.722 "/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="908.169" y="175.722">
+        <tspan x="908.169" y="175.722">Документ</tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="890.358" y="110.41">
+      <tspan x="890.358" y="110.41">Web API</tspan>
+    </text>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="862.598" y="101.41" width="85.5925" height="79.9415"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="905.394" y="145.281">
+        <tspan x="905.394" y="145.281"></tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <polygon style="fill: #ffffff" points="893.362,216.653 913.362,216.653 913.362,226.653 923.362,226.653 923.362,256.653 893.362,256.653 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="893.362,216.653 913.362,216.653 913.362,226.653 923.362,226.653 923.362,256.653 893.362,256.653 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="893.362,216.653 913.362,216.653 913.362,226.653 923.362,226.653 923.362,256.653 893.362,256.653 "/>
+      <polygon style="fill: #ffffff" points="913.362,216.653 923.362,226.653 913.362,226.653 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="913.362,216.653 923.362,226.653 913.362,226.653 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="913.362,216.653 923.362,226.653 913.362,226.653 "/>
+      <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="908.362" y="273.653">
+        <tspan x="908.362" y="273.653">Документ</tspan>
+      </text>
+    </g>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="890.55" y="208.34">
+      <tspan x="890.55" y="208.34">Web API</tspan>
+    </text>
+    <g>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="862.791" y="199.34" width="85.5925" height="79.9415"/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="905.587" y="243.211">
+        <tspan x="905.587" y="243.211"></tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x1="960" y1="206.636" x2="980" y2="226.636"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x1="980" y1="206.636" x2="960" y2="226.636"/>
+  </g>
+</svg>
