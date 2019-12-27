@@ -1,11 +1,11 @@
-﻿<article xml:id="masterdataview" xml:lang="ru">
+﻿<article xml:id="masterdataview" xml:lang="ru" xml:base=".">
   <articleinfo>
     <title>Принцип обработки процессов</title>
     <author>Федорченко М.И.</author>
   </articleinfo>
 	<figure id="svg1">
 		<title>Принцип обработки процессов</title>
-	  <graphic fileref="images/abs_processing.svg" scalefit="1" width="160mm" align="center"/>
+	  <graphic fileref="abs_processing.svg " scalefit="1" width="100mm" align="center"/>
 	</figure>
 	<para>На рисунке <xref linkend="svg1" endterm="label"/> показаны базовые принципы работы АБС.</para>
 </article>
