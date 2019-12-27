@@ -3,6 +3,7 @@ set tmpfile=%TMP:\=/%/%~n1%.fo
 
 rem set xslfile=C:/DocBook/espd-docbook5/espd/espd.xsl
 set xslfile=C:\Users\FedorchenkoMI\Documents\MyFirstBook\config\custom.xsl
+rem set xslfile=C:\Users\FedorchenkoMI\Documents\MyFirstBook\old_scripts\custom-docbook.xsl
 set xslfile=%xslfile:\=/%
 
 set xmlfile=%~dpn1.xml

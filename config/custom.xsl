@@ -18,6 +18,8 @@
     <!-- Шрифт основного текста -->
     <!--xsl:param name="body.font.family">Liberation Serif</xsl:param-->
     <xsl:param name="body.font.family">Arial</xsl:param>
+	
+	  <xsl:param name="dingbat.font.family">Arial</xsl:param>
 
     <!-- Шрифт без засечек, где-то используется... -->
     <!--xsl:param name="sans.font.family">Liberation Sans</xsl:param-->
