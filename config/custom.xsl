@@ -43,6 +43,7 @@
     <xsl:param name="fop1.extensions">1</xsl:param>
 
 		<!--Маркировка в листингах-->
+    <xsl:param name="callout.unicode" select="1"></xsl:param>
     <xsl:param name="callout.graphics" select="1"></xsl:param>
     <xsl:param name="callout.graphics.path">file:///C:/DocBook/stylesheets/docbook-xsl-ns-1.79.1/images/callouts/</xsl:param>
     

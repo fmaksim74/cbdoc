@@ -1,49 +1,49 @@
 ﻿<book xmlns='http://docbook.org/ns/docbook' xml:lang="ru">
-  <title>Пример книги</title>
-  <titleabbrev>Пример</titleabbrev>
-  <info>
-    <title>ComplexBank. Руководство разработчика.</title>
-    <titleabbrev>CBDG</titleabbrev>
-    <subtitle>Много знаем - плохо спим, мало знаем - есть хотим.</subtitle>
-    <abstract>Это абстрактный документ неазер никому не нужный.</abstract>
-    <address>На деревне у дедушки, где не осталось бабушек.</address>
-    <annotation>Анотация</annotation>
-    <copyright>
-      <year>2019</year>
-      <year>2020</year>
-      <holder>Моё, бля! Копирайт ёпта.</holder>
-    </copyright>
-    <date>9 декабря 2019 г.</date>
-    <legalnotice>
-      <para>Лицензии нет.</para>
-    </legalnotice>
-    <author>
-      <personname>
-        <firstname>Федорченко</firstname>
-        <surname>Максим</surname>
-      </personname>
-    </author>
-  </info>
-  <dedication>
-    <para>Эта книга является примером работы с DocBook XML.</para>
-  </dedication>
-  <!--preface>
+	<title>Пример книги</title>
+	<titleabbrev>Пример</titleabbrev>
+	<info>
+		<title>ComplexBank. Руководство разработчика.</title>
+		<titleabbrev>CBDG</titleabbrev>
+		<subtitle>Много знаем - плохо спим, мало знаем - есть хотим.</subtitle>
+		<abstract>Это абстрактный документ неахер никому не нужный.</abstract>
+		<address>На деревне у дедушки, где не осталось бабушек.</address>
+		<annotation>Анотация</annotation>
+		<copyright>
+			<year><?dbtimestamp format="Y"?></year>
+			<holder>Моё, бля! Копирайт ёпта.</holder>
+		</copyright>
+		<date>9 декабря 2019 г.</date>
+		<legalnotice>
+			<para>Лицензии нет.</para>
+		</legalnotice>
+		<author>
+			<personname>
+				<firstname>Федорченко</firstname>
+				<surname>Максим</surname>
+			</personname>
+		</author>
+		<pubdate><?dbtimestamp format="Y"?></pubdate>
+	</info>
+	<dedication>
+		<para>Эта книга является примером работы с DocBook XML.</para>
+	</dedication>
+	<!--preface>
     <title>Предисловие</title>
     <para>Предисловие писать лень.</para>
   </preface-->
-  <chapter>
-    <epigraph>
-      <attribution>Мартин Фаулер</attribution>
-      <para>Всё, на что способна какая бы то ни было книга, - это дать некую исходную информацию, оттолкнувшись от которой вы можете начать мыслить самостоятельно.</para>
-    </epigraph>
-    <title>Пример главы</title>
-    <para> </para>
-    <para> </para>
-    <para>Какое-то содержание главы. А это <varname>переменная</varname>
-    </para>
-    <para>Это константа <constant>const</constant>
-    </para>
-    <programlisting language="sql">
+	<chapter>
+		<epigraph>
+			<attribution>Мартин Фаулер</attribution>
+			<para>Всё, на что способна какая бы то ни было книга, - это дать некую исходную информацию, оттолкнувшись от которой вы можете начать мыслить самостоятельно.</para>
+		</epigraph>
+		<title>Пример главы</title>
+		<para> </para>
+		<para> </para>
+		<para>Какое-то содержание главы. А это <varname>переменная</varname>
+		</para>
+		<para>Это константа <constant>const</constant>
+		</para>
+		<programlisting language="sql">
 /* Запрос для формирования Прихода на склад */
 -- параметры операции
 SELECT *,
@@ -82,22 +82,36 @@ SELECT CONVERT(VARCHAR(255),
        INNER JOIN tla_Account AS tlaa ON tlaa.Account = thdp.ExpenseAccount
  WHERE thdp.Id IN (31,32,33)
 
-    </programlisting>
-    <para>Теперь пример тега <varname>screen</varname>
-    </para>
-    <screen>
+		</programlisting>
+		<para>Теперь пример тега <varname>screen</varname>
+		</para>
+		<screen>
     &lt;entry>  <lineannotation>Error: No line break before block element</lineannotation>
   6 &lt;para>
     A paragraph of text.
   8 &lt;/para>&lt;/entry>
-    </screen>
-    <formalpara>
-      <title>This Paragraph Has a Title</title>
-      <para>This is a test.  This is only a test.  Had this been a real example, it would have made more sense.  Or less.</para>
-    </formalpara>
-  </chapter>
-  <appendix>
-    <title>Приложение</title>
-    <para>Какое-то приложение.</para>
-  </appendix>
+		</screen>
+		<formalpara>
+			<title>This Paragraph Has a Title</title>
+			<para>This is a test.  This is only a test.  Had this been a real example, it would have made more sense.  Or less.</para>
+		</formalpara>
+		<orderedlist numeration="lowerroman">
+			<listitem>
+				<para>Адын</para>
+			</listitem>
+			<listitem>
+				<para>Дува</para>
+			</listitem>
+			<listitem>
+				<para>Тры</para>
+			</listitem>
+			<listitem>
+				<para>Четырэ</para>
+			</listitem>
+		</orderedlist>
+	</chapter>
+	<appendix>
+		<title>Приложение</title>
+		<para>Какое-то приложение.</para>
+	</appendix>
 </book>
