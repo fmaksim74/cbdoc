@@ -9,7 +9,9 @@
 		<address>На деревне у дедушки, где не осталось бабушек.</address>
 		<annotation>Анотация</annotation>
 		<copyright>
-			<year><?dbtimestamp format="Y"?></year>
+			<year>
+				<?dbtimestamp format="Y"?>
+			</year>
 			<holder>Моё, бля! Копирайт ёпта.</holder>
 		</copyright>
 		<date>9 декабря 2019 г.</date>
@@ -22,7 +24,9 @@
 				<surname>Максим</surname>
 			</personname>
 		</author>
-		<pubdate><?dbtimestamp format="Y"?></pubdate>
+		<pubdate>
+			<?dbtimestamp format="Y"?>
+		</pubdate>
 	</info>
 	<dedication>
 		<para>Эта книга является примером работы с DocBook XML.</para>
@@ -32,17 +36,36 @@
     <para>Предисловие писать лень.</para>
   </preface-->
 	<chapter>
-		<epigraph>
-			<attribution>Мартин Фаулер</attribution>
-			<para>Всё, на что способна какая бы то ни было книга, - это дать некую исходную информацию, оттолкнувшись от которой вы можете начать мыслить самостоятельно.</para>
-		</epigraph>
+		<blockquote>
+			<epigraph>
+				<attribution>Мартин Фаулер</attribution>
+				<para>Всё, на что способна какая бы то ни было книга, - это дать некую исходную информацию, оттолкнувшись от которой вы можете начать мыслить самостоятельно.</para>
+			</epigraph>
+		</blockquote>
 		<title>Пример главы</title>
-		<para> </para>
-		<para> </para>
 		<para>Какое-то содержание главы. А это <varname>переменная</varname>
 		</para>
+		<programlisting>
+   print "hello world"  <co id="co1-op1"/>
+   call do_work("yes")  <co id="co1-op2"/>
+   return 1             <co id="co1-op3"/>
+			<calloutlist>
+				<callout arearefs="co1-op1">
+					<para>Оператор print, выводит строку на консоль</para>
+				</callout>
+				<callout arearefs="co1-op2">
+					<para>Пример вызова функции.</para>
+				</callout>
+				<callout arearefs="co1-op3">
+					<para>Дальше могут идти другие операторы.</para>
+				</callout>
+			</calloutlist>
+		</programlisting>
 		<para>Это константа <constant>const</constant>
 		</para>
+		<sidebar>
+			<para>Абзац может быть выделен рамкой.</para>
+		</sidebar>
 		<programlisting language="sql">
 /* Запрос для формирования Прихода на склад */
 -- параметры операции
@@ -95,6 +118,22 @@ SELECT CONVERT(VARCHAR(255),
 			<title>This Paragraph Has a Title</title>
 			<para>This is a test.  This is only a test.  Had this been a real example, it would have made more sense.  Or less.</para>
 		</formalpara>
+		<para>Процедура может работать в следующих режимах (значение параметра         <literal>a_regim</literal>).      
+			<itemizedlist mark="bullet" spacing="compact">
+				<listitem>
+					<para>
+						<systemitem>do</systemitem>; </para>
+				</listitem>
+				<listitem>
+					<para>
+						<systemitem>undo</systemitem>; </para>
+				</listitem>
+				<listitem>
+					<para>
+						<systemitem>redo</systemitem>. </para>
+				</listitem>
+			</itemizedlist>  
+		</para>
 		<orderedlist numeration="lowerroman">
 			<listitem>
 				<para>Адын</para>
@@ -109,9 +148,188 @@ SELECT CONVERT(VARCHAR(255),
 				<para>Четырэ</para>
 			</listitem>
 		</orderedlist>
+		<segmentedlist>
+			<segtitle>Разработчик</segtitle>
+			<segtitle>Платформа</segtitle>
+			<segtitle>Язык</segtitle>
+			<seglistitem>
+				<seg>Macrosoft</seg>
+				<seg>Win32</seg>
+				<seg>C++</seg>
+			</seglistitem>
+			<seglistitem>
+				<seg>ЗИС</seg>
+				<seg>Linux</seg>
+				<seg>Python</seg>
+			</seglistitem>
+		</segmentedlist>
+		<emphasis role="bold">Методы наследованные от java.lang.Object</emphasis>: 
+		<simplelist type="inline">
+			<member>
+				<literal>hashCode</literal>
+			</member>
+			<member>
+				<literal>finalize</literal>
+			</member>
+			<member>
+				<literal>notify</literal>
+			</member>
+			<member>
+				<literal>notifyAll</literal>
+			</member>
+			<member>
+				<literal>registerNatives</literal>
+			</member>
+			<member>
+				<literal>wait</literal>
+			</member>
+			<member>
+				<literal>getClass</literal>
+			</member>
+			<member>
+				<literal>clone</literal>
+			</member>
+			<member>
+				<literal>equals</literal>
+			</member>
+			<member>
+				<literal>toString</literal>
+			</member>
+		</simplelist>
+		<variablelist>
+			<title>Входы пакета pk_name</title>
+			<varlistentry>
+				<term>name_short(a_name)</term>
+				<listitem>
+					<para>Принимает необработанное название и возвращает его 
+						<systemitem>краткую форму нормализованного названия</systemitem>.           
+					</para>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>name_trans(a_name)</term>
+				<listitem>
+					<para>Принимает <systemitem>полную форму нормализованного названия</systemitem>
+        и возвращает  <systemitem>краткую форму нормализованного названия</systemitem>.           
+					</para>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>name_full(a_name)</term>
+				<listitem>
+					<para>Принимает необработанное название и возвращает его 
+						<systemitem>полную форму нормализованного названия</systemitem>.           
+					</para>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+		<!--сaution>
+			<para>Наверняка есть другие источники информации,  а также другая поступающая информация. 
+          Так что этот список нуждается в расширении и доработке.
+			</para>
+		</сaution-->
+		<important>
+			<para>При загрузке все нулевые значения отрезаются и не вводятся!</para>
+		</important>
+		<note>
+			<para>Этот размер различен для различных операционных систем и определяется
+        для каждой из них отдельно.
+			</para>
+		</note>
+		<tip>
+			<para>Каждый вопрос имеет ответ по умолчанию, который принимается 
+          при нажатии кнопки <interface>Enter</interface>.</para>
+		</tip> 
+		<warning>
+			<para>
+				<emphasis>Нельзя</emphasis> получать новые версии файлов другим путем, кроме 
+   как выполнением команд <systemitem>update</systemitem> или
+				<systemitem>checkout</systemitem>. Копирование новых версий файлов 
+   с другого компьютера может привести к потере данных!
+			</para>
+		</warning>
+		<synopsis>
+                    cvs add -kb <replaceable>имя файла</replaceable>
+		</synopsis>
+		<example id="exmp-xforms-request">
+			<title>Пример XForms-спецификации</title>
+			<programlisting width="80">
+				<![CDATA[<?xml version="1.0" encoding="windows-1251"?>
+   <xform:xform>
+   <xform:input ref="accNumber">
+    <xform:caption>Учетный номер</xform:caption>
+   </xform:input>
+   <xform:input ref="releaseDate">
+     <xform:caption>Дата выпуска</xform:caption>
+   </xform:input>
+    ...
+   </xform:xform>
+]]>
+			</programlisting>
+		</example>
+		<table frame="all">
+			<title>Автопрепроцессирование</title>
+			<tgroup cols="5" align="left">
+				<colspec colnum="1" colname="c1" colwidth="4cm"/>
+				<colspec colnum="2" colname="c2" colwidth="4cm"/>
+				<thead>
+					<row>
+						<entry>sgml-таг</entry>
+						<entry>html-таг</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>para          </entry>
+						<entry>p align="justify" </entry>
+					</row>
+					<row>
+						<entry>listitem      </entry>
+						<entry>li                </entry>
+					</row>
+					<row>
+						<entry>listitem      </entry>
+						<entry>li                </entry>
+					</row>
+					<row>
+						<entry>orderedlist   </entry>
+						<entry>ol                </entry>
+					</row>
+					<row>
+						<entry>orderedlist   </entry>
+						<entry>ol                </entry>
+					</row>
+					<row>
+						<entry>itemizedlist  </entry>
+						<entry>ul                </entry>
+					</row>
+					<row>
+						<entry>itemizedlist  </entry>
+						<entry>ul                </entry>
+					</row>
+					<row>
+						<entry>systemitem    </entry>
+						<entry>em                </entry>
+					</row>
+					<row>
+						<entry>systemitem    </entry>
+						<entry>em                </entry>
+					</row>
+					<row>
+						<entry>literal       </entry>
+						<entry>code              </entry>
+					</row>
+					<row>
+						<entry>literal       </entry>
+						<entry>code              </entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
 	</chapter>
 	<appendix>
 		<title>Приложение</title>
 		<para>Какое-то приложение.</para>
 	</appendix>
+
 </book>
