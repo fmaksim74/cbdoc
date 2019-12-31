@@ -17,17 +17,17 @@
     
     <!-- Шрифт основного текста -->
     <!--xsl:param name="body.font.family">Liberation Serif</xsl:param-->
-    <xsl:param name="body.font.family">Arial</xsl:param>
+    <xsl:param name="body.font.family">DejaVu Serif</xsl:param>
 	
 	  <xsl:param name="dingbat.font.family">Arial</xsl:param>
 
     <!-- Шрифт без засечек, где-то используется... -->
     <!--xsl:param name="sans.font.family">Liberation Sans</xsl:param-->
-    <xsl:param name="sans.font.family">Arial</xsl:param>
+    <xsl:param name="sans.font.family">DejaVu Sans</xsl:param>
 
     <!-- Шрифт заголовков -->
     <!--xsl:param name="title.font.family">Liberation Serif</xsl:param-->
-    <xsl:param name="title.font.family">Arial</xsl:param>
+    <xsl:param name="title.font.family">DejaVu Sans</xsl:param>
 
     <!-- Шрифт символов (псевдографики) -->
     <!--xsl:param name="symbol.font.family">OpenSymbol</xsl:param-->
@@ -35,10 +35,13 @@
 
     <!-- Шрифт моноширинный (computeroutput, programlisting) -->
     <!--xsl:param name="monospace.font.family">Liberation Mono</xsl:param-->
-    <xsl:param name="monospace.font.family">Consolas</xsl:param>
+    <xsl:param name="monospace.font.family">DejaVu Sans Mono</xsl:param>
 
 		<!--Размер шрифта основноготекста -->
-    <xsl:param name="body.font.master">10</xsl:param>
+    <xsl:param name="body.font.master">12</xsl:param>
+
+		<!--Размер шрифта листингов -->
+    <xsl:param name="espd.verbatim.font.size">9</xsl:param>
 
     <xsl:param name="fop1.extensions">1</xsl:param>
 
