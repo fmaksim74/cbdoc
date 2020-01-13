@@ -13,7 +13,7 @@
     <!-- <xsl:import href="http://lab50.net/xsl/espd/eskd.xsl"/>  -->
     <!-- <xsl:import href="http://lab50.net/xsl/espd/modern.xsl"/> -->
 		
-    <xsl:param name="img.src.path">file:///C:/Users/FedorchenkoMI/Documents/MyFirstBook/images/</xsl:param>
+    <xsl:param name="img.src.path">file:./images/</xsl:param>
     
     <!-- Шрифт основного текста -->
     <!--xsl:param name="body.font.family">Liberation Serif</xsl:param-->
