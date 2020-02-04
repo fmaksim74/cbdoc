@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-     Пример стилевого файла для <docbook>ЕСПД</docbook>
--->
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     version="1.1">
-    <!--xsl:import href="file:///C:/DocBook/espd-docbook5/espd/espd.xsl"/-->
+    <xsl:import href="file:///C:/DocBook/espd-docbook5/espd/espd.xsl"/>
     <!--xsl:import href="file:///C:/DocBook/espd-docbook5/espd/eskd.xsl"/-->
-    <xsl:import href="file:///C:/DocBook/espd-docbook5/espd/modern.xsl"/>
+    <!--xsl:import href="file:///C://docbook//espd-docbook5//espd//modern.xsl"/-->
 
     <!-- <xsl:import href="http://lab50.net/xsl/espd/espd.xsl"/>  -->
     <!-- <xsl:import href="http://lab50.net/xsl/espd/eskd.xsl"/>  -->
@@ -48,6 +45,6 @@
 		<!--Маркировка в листингах-->
     <xsl:param name="callout.unicode" select="1"></xsl:param>
     <xsl:param name="callout.graphics" select="1"></xsl:param>
-    <xsl:param name="callout.graphics.path">file:///C:/DocBook/stylesheets/docbook-xsl-ns-1.79.1/images/callouts/</xsl:param>
+    <xsl:param name="callout.graphics.path">file:///C://docbook//docbook-xsl-ns-1.79.1/images/callouts/</xsl:param>
     
 </xsl:stylesheet>
