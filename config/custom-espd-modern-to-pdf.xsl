@@ -2,9 +2,9 @@
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     version="1.1">
-    <xsl:import href="file:///C:/DocBook/espd-docbook5/espd/espd.xsl"/>
+    <!--xsl:import href="file:///C:/DocBook/espd-docbook5/espd/espd.xsl"/-->
     <!--xsl:import href="file:///C:/DocBook/espd-docbook5/espd/eskd.xsl"/-->
-    <!--xsl:import href="file:///C://docbook//espd-docbook5//espd//modern.xsl"/-->
+    <xsl:import href="file:///C:/docbook/espd-docbook5/espd/modern.xsl"/>
 
     <!-- <xsl:import href="http://lab50.net/xsl/espd/espd.xsl"/>  -->
     <!-- <xsl:import href="http://lab50.net/xsl/espd/eskd.xsl"/>  -->

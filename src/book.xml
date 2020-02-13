@@ -5,14 +5,13 @@
 ]>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="../config/custom-espd-modern-to-pdf.xsl"?>
 <book xmlns='http://docbook.org/ns/docbook'
       xmlns:xi="http://www.w3.org/2001/XInclude"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xml:lang="ru" version="5.0">
   <info>
     <title>&full_product;</title>
-    <subtitle>&tech_assign;</subtitle>
+    <subtitle condition="">&tech_assign;</subtitle>
     <author>
       <orgname>&full_supplier;</orgname>
       <address>
@@ -62,7 +61,7 @@
       <title>Аннотация</title>
     </info>
     <para>В документе приведено &tech_assign; на продукт &product;.</para>
-    <para>Оформление программного документа &tech_assign; произведено по требованиям ЕСПД (ГОСТ 19.101-77, ГОСТ 19.103-77, ГОСТ 19.104-78, ГОСТ 19.105-78, ГОСТ 19.106-78, ГОСТ 19.502-78, ГОСТ 19.604-78)</para>
+    <!--para>Оформление программного документа &tech_assign; произведено по требованиям ЕСПД (ГОСТ 19.101-77, ГОСТ 19.103-77, ГОСТ 19.104-78, ГОСТ 19.105-78, ГОСТ 19.106-78, ГОСТ 19.502-78, ГОСТ 19.604-78)</para-->
   </preface>
   <chapter>
     <title>Введение</title>
